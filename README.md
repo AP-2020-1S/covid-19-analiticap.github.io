@@ -1,1 +1,1 @@
-# -covid-19-analiticap.github.io
+# covid-19-analiticap.github.io
